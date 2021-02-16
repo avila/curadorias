@@ -9,3 +9,15 @@ A frequent error I see students make is thinking that they can account for "the 
 link: https://twitter.com/nickchk/status/1361436106454016000
 
 tags: interaction term, control variable, group, effect heterogeneity
+
+
+
+
+
+
+
+## to organize
+
+
+
+https://twitter.com/nickchk/status/1068215492458905600
