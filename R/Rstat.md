@@ -31,3 +31,8 @@ https://www.tidyverse.org/blog/2021/02/modern-text-features/
 - Support for font fallback
 
 ![image-20210215211217312](assets/Rstat/image-20210215211217312.png)
+
+
+## Blogdown 
+
+- https://alison.rbind.io/post/new-year-new-blogdown/
