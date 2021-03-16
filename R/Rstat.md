@@ -6,6 +6,13 @@
 
 ![image-20210215124224860](assets/Rstat/image-20210215124224860.png)
 
+
+### package `{sfnetworks}`: https://twitter.com/LuukvanderMeer/status/1371498267188592642
+
+![usage of sfnetworks](https://twitter.com/i/status/1371498267188592642)
+
+https://twitter.com/LuukvanderMeer/status/1371498267188592642
+
 ### color scales 
 
 A complete guide to scales
