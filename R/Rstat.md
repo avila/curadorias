@@ -44,3 +44,10 @@ https://www.tidyverse.org/blog/2021/02/modern-text-features/
 ## Blogdown 
 
 - https://alison.rbind.io/post/new-year-new-blogdown/
+
+
+### Aesthetics 
+
+fill aesthetic + pch = 21 + color = "white"
+
+https://twitter.com/andrewheiss/status/1373013429150175234/photo/4
