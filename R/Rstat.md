@@ -2,6 +2,14 @@
 
 ## third party packages 
 
+### package {DataExplorer}
+
+```r
+devtools::install_github("boxuancui/DataExplorer")
+```
+
+
+https://boxuancui.github.io/DataExplorer/articles/dataexplorer-intro.html
 ### package `{patchwork}` : https://gotellilab.github.io/GotelliLabMeetingHacks/NickGotelli/ggplotPatchwork.html
 
 ![image-20210215124224860](assets/Rstat/image-20210215124224860.png)
