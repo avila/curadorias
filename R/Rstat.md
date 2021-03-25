@@ -14,6 +14,10 @@ https://boxuancui.github.io/DataExplorer/articles/dataexplorer-intro.html
 
 ![image-20210215124224860](assets/Rstat/image-20210215124224860.png)
 
+### package '{esquisse} : https://github.com/dreamRs/esquisse
+
+![example usage](https://github.com/dreamRs/esquisse/blob/master/man/figures/esquisse.gif)
+
 
 ### package `{sfnetworks}`: https://twitter.com/LuukvanderMeer/status/1371498267188592642
 
