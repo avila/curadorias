@@ -1,5 +1,13 @@
 # ggplot
 
+## Tutorials 
+
+
+### A data.table and dplyr tour
+
+A comprehensive dictionary between data.table and dplyr 
+https://atrebas.github.io/post/2019-03-03-datatable-dplyr/
+
 ## third party packages 
 
 ### package {DataExplorer}
@@ -55,3 +63,5 @@ https://www.tidyverse.org/blog/2021/02/modern-text-features/
 fill aesthetic + pch = 21 + color = "white"
 
 https://twitter.com/andrewheiss/status/1373013429150175234/photo/4
+
+
